@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Fuzzy-DDPG MPPT multi-seed benchmark (Python and MATLAB)"
+authors:
+  - family-names: Saputra
+    given-names: I Gusti Ngurah Agung Dwijaya
+    affiliation: Politeknik Negeri Bali
+    email: dwijaya_s@pnb.ac.id
+  - family-names: Suryawan
+    given-names: I Ketut
+    affiliation: Politeknik Negeri Bali
+  - family-names: Wiryana
+    given-names: Made
+    affiliation: Politeknik Negeri Bali
+  - family-names: Purbhawa
+    given-names: I Made
+    affiliation: Politeknik Negeri Bali
+  - family-names: Yasa
+    given-names: Kadek Amerta
+    affiliation: Politeknik Negeri Bali
+license: MIT
+version: 1.0.0
+date-released: 2026-10-05

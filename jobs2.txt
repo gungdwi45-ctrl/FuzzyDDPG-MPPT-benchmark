@@ -1,0 +1,6 @@
+adaptive tw 0
+none conv 0
+adaptive tw 1
+none conv 1
+adaptive tw 2
+none conv 2

@@ -1,0 +1,8 @@
+adaptive tw 100 400 tune 0.0001 0.001 0.97
+adaptive tw 101 400 tune 0.0001 0.001 0.97
+adaptive tw 100 400 tune 0.001 0.003 0.97
+adaptive tw 101 400 tune 0.001 0.003 0.97
+none conv 100 400 tune 0.0001 0.001 0.97
+none conv 101 400 tune 0.0001 0.001 0.97
+none conv 100 400 tune 0.001 0.003 0.97
+none conv 101 400 tune 0.001 0.003 0.97
