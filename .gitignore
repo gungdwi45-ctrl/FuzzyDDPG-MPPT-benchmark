@@ -1,0 +1,7 @@
+     __pycache__/
+     logs/
+     old_results/
+     models/pilot*/
+     models/tune/
+     *.log
+     *.lock
